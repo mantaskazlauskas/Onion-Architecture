@@ -4,5 +4,5 @@ Onion architecture solution boilerplate with main projects, sample entity and co
 
 After cloning build the solution restore nuget, change connection string of db and you are good to go.
 
-Everithing was done according to this article:
+Everything was done according to this article:
 https://www.codewithmukesh.com/blog/onion-architecture-in-aspnet-core/
